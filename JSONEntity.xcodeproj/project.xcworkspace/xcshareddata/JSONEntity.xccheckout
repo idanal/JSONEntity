@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2B532BD5-1447-4A85-B609-2147C7DADC23</string>
+	<key>IDESourceControlProjectName</key>
+	<string>JSONEntity</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DFF11F79-6E94-4E59-B875-FCFCEC57787F</key>
+		<string>https://github.com/idanal/JSONEntity.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>JSONEntity.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DFF11F79-6E94-4E59-B875-FCFCEC57787F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/idanal/JSONEntity.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DFF11F79-6E94-4E59-B875-FCFCEC57787F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DFF11F79-6E94-4E59-B875-FCFCEC57787F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>JSONEntity</string>
+		</dict>
+	</array>
+</dict>
+</plist>
